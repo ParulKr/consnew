@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PrinceCons'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56424135EECD4E1BAF47995555B5F22E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AB8314D96344CF48710D124E3BE12A6 }}
